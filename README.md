@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvsav&show_icons=true&theme=midnight-purple" alt="sarvsav" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvsav&show_icons=true&theme=discord_old_blurple" alt="sarvsav" />
 </p>
 
 <!--
