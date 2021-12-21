@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvsav&show_icons=true&theme=midnight-purple" alt="sarvsav" />
+</p>
+
 <!--
 **sarvsav/sarvsav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
