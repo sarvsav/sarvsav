@@ -4,6 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Brawl Stars Gameplay Penny by Cyberbit](https://www.youtube.com/watch?v=Ah1xdmjE-Iw)
+- [Brawl Stars Gameplay Colt by Cyberbit](https://www.youtube.com/watch?v=wDMKmis59vM)
+- [Rexeri: First Run](https://www.youtube.com/watch?v=nGBwzQPUQ_o)
+- [home](https://www.youtube.com/watch?v=dLJSexupKDY)
+- [Codingtherightway](https://www.youtube.com/watch?v=81ZBk04eDkk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
