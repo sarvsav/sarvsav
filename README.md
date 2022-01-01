@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Connect with me
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 ---
 ### 📺 Latest YouTube Videos
 
@@ -13,9 +16,6 @@
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
 
-### Connect with me
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
 ---
 ### 📕 Latest Blog Posts
 
@@ -28,6 +28,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.codingtherightway.com/)
+
 ---
 
 <p align="center"> 
