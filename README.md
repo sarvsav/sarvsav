@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+---
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](http://www.codingtherightway.com/)
+---
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sarvsav&show_icons=true&theme=discord_old_blurple" alt="sarvsav" />
 </p>
@@ -18,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
