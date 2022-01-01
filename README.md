@@ -4,19 +4,6 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 ---
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Brawl Stars Gameplay Penny by Cyberbit](https://www.youtube.com/watch?v=Ah1xdmjE-Iw)
-- [Brawl Stars Gameplay Colt by Cyberbit](https://www.youtube.com/watch?v=wDMKmis59vM)
-- [Rexeri: First Run](https://www.youtube.com/watch?v=nGBwzQPUQ_o)
-- [home](https://www.youtube.com/watch?v=dLJSexupKDY)
-- [Codingtherightway](https://www.youtube.com/watch?v=81ZBk04eDkk)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
-
----
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -28,6 +15,19 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.codingtherightway.com/)
+
+---
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Brawl Stars Gameplay Penny by Cyberbit](https://www.youtube.com/watch?v=Ah1xdmjE-Iw)
+- [Brawl Stars Gameplay Colt by Cyberbit](https://www.youtube.com/watch?v=wDMKmis59vM)
+- [Rexeri: First Run](https://www.youtube.com/watch?v=nGBwzQPUQ_o)
+- [home](https://www.youtube.com/watch?v=dLJSexupKDY)
+- [Codingtherightway](https://www.youtube.com/watch?v=81ZBk04eDkk)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
 
 ---
 
