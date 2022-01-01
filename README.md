@@ -20,6 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Solution] Getting Error for Private repositories: Go 1.13 or later while doing [go get] verifying: reading: 410 Gone](http://www.codingtherightway.com/2021/12/solution-getting-error-for-private.html)
+- [[Solved] Cannot Sign In to Microsoft teams Error code - signInRestriction:1](http://www.codingtherightway.com/2021/03/solved-cannot-sign-in-to-microsoft.html)
+- [Useful links of online tools that makes the life of GoLang developer easier](http://www.codingtherightway.com/2021/03/useful-links-of-online-tools-that-makes.html)
+- [GoLang 1.16 has been released, what&#39;s new? and how to fix, Error: mgcsweepbuf.go:87:80: memstats.gc_sys undefined](http://www.codingtherightway.com/2021/02/golang-116-has-been-released-whats-new.html)
+- [Why not use http.Get for check file existence on server](http://www.codingtherightway.com/2020/11/why-not-use-httpget-for-check-file.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.codingtherightway.com/)
