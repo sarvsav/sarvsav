@@ -20,11 +20,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Haydos 380](https://www.youtube.com/watch?v=wjMwF8CuRkw)
 - [Brawl Stars Gameplay Dynamike by Cyberbit](https://www.youtube.com/watch?v=nQhov0CW4qQ)
 - [Brawl Stars Gameplay Penny by Cyberbit](https://www.youtube.com/watch?v=Ah1xdmjE-Iw)
 - [Brawl Stars Gameplay Colt by Cyberbit](https://www.youtube.com/watch?v=wDMKmis59vM)
 - [Rexeri: First Run](https://www.youtube.com/watch?v=nGBwzQPUQ_o)
-- [home](https://www.youtube.com/watch?v=dLJSexupKDY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
