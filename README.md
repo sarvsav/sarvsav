@@ -20,7 +20,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Haydos 380](https://www.youtube.com/watch?v=wjMwF8CuRkw)
+- [Haydos 380 India Vs Australia](https://www.youtube.com/watch?v=wjMwF8CuRkw)
 - [Brawl Stars Gameplay Dynamike by Cyberbit](https://www.youtube.com/watch?v=nQhov0CW4qQ)
 - [Brawl Stars Gameplay Penny by Cyberbit](https://www.youtube.com/watch?v=Ah1xdmjE-Iw)
 - [Brawl Stars Gameplay Colt by Cyberbit](https://www.youtube.com/watch?v=wDMKmis59vM)
