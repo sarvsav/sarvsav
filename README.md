@@ -4,6 +4,9 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 ---
+
+[![Sarvsav Medium](https://github-readme-medium.vercel.app/?username=sarvsav&limit=5&bg=222f2e&text=ff0000)](https://medium.com/@sarvsav)
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
