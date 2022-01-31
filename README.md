@@ -5,8 +5,6 @@
 <br />
 ---
 
-[![Sarvsav Medium](https://github-readme-medium.vercel.app/?username=sarvsav&limit=1)](https://medium.com/@sarvsav)
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -32,6 +30,10 @@
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
 
+---
+## Medium
+
+[![Sarvsav Medium](https://github-readme-medium.vercel.app/?username=sarvsav&limit=1)](https://medium.com/@sarvsav)
 ---
 
 <p align="center"> 
