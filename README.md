@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 ### Connect with me
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://www.instagram.com/codingtherightway/">
+  <img align="left" alt="CodingTheRightWay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<!-- <a href="https://twitter.com/username">
+  <img align="left" alt="Username | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> -->
+<a href="https://www.linkedin.com/in/sarvsav/">
+  <img align="left" alt="Sarvsav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <br />
 ---
 
