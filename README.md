@@ -11,7 +11,7 @@
   <img align="left" alt="Sarvsav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sarvsav/">
-  <img width="22px" src="https://unpkg.com/simple-icons@v6/icons/firefoxbrowser-white.svg" />
+  <img width="22px" style="background-color: orange;" src="https://unpkg.com/simple-icons@v6/icons/firefoxbrowser.svg" />
 </a>
 <br />
 ---
