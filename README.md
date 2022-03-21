@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mech Arena Gameplay](https://www.youtube.com/watch?v=G8TYrhULo7E)
 - [Cover Fire Gameplay](https://www.youtube.com/watch?v=iL3CQqz6-zs)
 - [Farlight 84 Gameplay](https://www.youtube.com/watch?v=rFkb9Cs7OWA)
 - [Premium Heroes Infinity Gameplay](https://www.youtube.com/watch?v=xE_eYzI5An4)
 - [All Star Cricket 2 Gameplay](https://www.youtube.com/watch?v=hOOQ-OnXCPc)
-- [Jade Dynasty Character Create](https://www.youtube.com/watch?v=dC5vnhmCBUE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
