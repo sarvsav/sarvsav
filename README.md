@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gangstar 4 Vegas Gameplay](https://www.youtube.com/watch?v=7G-KlJKCKP4)
 - [Hitwicket Superstars Gameplay](https://www.youtube.com/watch?v=aGW6wR_f2bQ)
 - [Hitwicket Superstars Gameplay Intro](https://www.youtube.com/watch?v=lNF_mGsoids)
 - [Cyberika Gameplay](https://www.youtube.com/watch?v=NvxIDS8R7Es)
 - [Transformers Gameplay](https://www.youtube.com/watch?v=g8gn5E4Lar8)
-- [Torque Burnout Gameplay](https://www.youtube.com/watch?v=IKJEXGR_15s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
