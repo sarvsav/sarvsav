@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Guns of Boom Gameplay](https://www.youtube.com/watch?v=OvAC8alfwgY)
-- [Gangstar New Orleans Gameplay](https://www.youtube.com/watch?v=XzVGDVjDNyE)
-- [Gangstar 4 Vegas Gameplay](https://www.youtube.com/watch?v=7G-KlJKCKP4)
-- [Hitwicket Superstars Gameplay](https://www.youtube.com/watch?v=aGW6wR_f2bQ)
-- [Hitwicket Superstars Gameplay Intro](https://www.youtube.com/watch?v=lNF_mGsoids)
+- [AWP Mode Gameplay](https://www.youtube.com/watch?v=kraHxYFlMWI)
+- [Tamashi Gameplay](https://www.youtube.com/watch?v=-pmNwSfGe4g)
+- [Sniper 3D Assassin Gameplay](https://www.youtube.com/watch?v=vXjdbNQWAxE)
+- [Jurassic World Gameplay](https://www.youtube.com/watch?v=K4sYMGylNTk)
+- [Disney Mirrorverse Gameplay](https://www.youtube.com/watch?v=yXKe0QQhs4Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
