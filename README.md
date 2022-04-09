@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Chronicles Gameplay](https://www.youtube.com/watch?v=H_EN3VAnOeM)
+- [IGI Commando Gameplay](https://www.youtube.com/watch?v=kBLmnF1nJoM)
+- [Head Ball 2 Gameplay](https://www.youtube.com/watch?v=Sb__KmgFL6I)
 - [AWP Mode Gameplay](https://www.youtube.com/watch?v=kraHxYFlMWI)
 - [Tamashi Gameplay](https://www.youtube.com/watch?v=-pmNwSfGe4g)
-- [Sniper 3D Assassin Gameplay](https://www.youtube.com/watch?v=vXjdbNQWAxE)
-- [Jurassic World Gameplay](https://www.youtube.com/watch?v=K4sYMGylNTk)
-- [Disney Mirrorverse Gameplay](https://www.youtube.com/watch?v=yXKe0QQhs4Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
