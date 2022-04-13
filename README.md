@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astral Fable Gameplay](https://www.youtube.com/watch?v=ilWtQIRQs30)
+- [Zooba Gameplay](https://www.youtube.com/watch?v=ogS_BTH36X4)
 - [Hero of Taslinia](https://www.youtube.com/watch?v=oWQbOuLeOBM)
 - [Chronicles Gameplay](https://www.youtube.com/watch?v=H_EN3VAnOeM)
 - [IGI Commando Gameplay](https://www.youtube.com/watch?v=kBLmnF1nJoM)
-- [Head Ball 2 Gameplay](https://www.youtube.com/watch?v=Sb__KmgFL6I)
-- [AWP Mode Gameplay](https://www.youtube.com/watch?v=kraHxYFlMWI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
