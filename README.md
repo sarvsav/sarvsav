@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [King of Fighters Gameplay Dream Match Mode](https://www.youtube.com/watch?v=n4H9-ximspI)
+- [King of Fighters Gameplay Story Mode](https://www.youtube.com/watch?v=Pt6ET_F4f0A)
+- [King of Fighters All Stars Gameplay](https://www.youtube.com/watch?v=7-NSN9GbJs4)
 - [Astral Fable Gameplay](https://www.youtube.com/watch?v=ilWtQIRQs30)
 - [Zooba Gameplay](https://www.youtube.com/watch?v=ogS_BTH36X4)
-- [Hero of Taslinia](https://www.youtube.com/watch?v=oWQbOuLeOBM)
-- [Chronicles Gameplay](https://www.youtube.com/watch?v=H_EN3VAnOeM)
-- [IGI Commando Gameplay](https://www.youtube.com/watch?v=kBLmnF1nJoM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
