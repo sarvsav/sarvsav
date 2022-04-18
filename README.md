@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [King of Fighters Gameplay Dream Match Mode](https://www.youtube.com/watch?v=n4H9-ximspI)
-- [King of Fighters Gameplay Story Mode](https://www.youtube.com/watch?v=Pt6ET_F4f0A)
-- [King of Fighters All Stars Gameplay](https://www.youtube.com/watch?v=7-NSN9GbJs4)
-- [Astral Fable Gameplay](https://www.youtube.com/watch?v=ilWtQIRQs30)
-- [Zooba Gameplay](https://www.youtube.com/watch?v=ogS_BTH36X4)
+- [FOG strike Gameplay](https://www.youtube.com/watch?v=nb2EIuYIXiY)
+- [April 18, 2022](https://www.youtube.com/watch?v=8lXN8xUM1Ew)
+- [Unkilled](https://www.youtube.com/watch?v=OIFVjriJJrg)
+- [Crossout Mobile Gameplay](https://www.youtube.com/watch?v=htlEkj5H6t4)
+- [Critical Strike Gameplay](https://www.youtube.com/watch?v=qwLu3hSsl9U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
