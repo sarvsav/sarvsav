@@ -32,9 +32,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [FOG strike Gameplay](https://www.youtube.com/watch?v=nb2EIuYIXiY)
-- [April 18, 2022](https://www.youtube.com/watch?v=8lXN8xUM1Ew)
-- [Unkilled](https://www.youtube.com/watch?v=OIFVjriJJrg)
+- [FOG Battle Royale Gameplay](https://www.youtube.com/watch?v=nb2EIuYIXiY)
+- [Distyle Gameplay](https://www.youtube.com/watch?v=8lXN8xUM1Ew)
+- [Unkilled Gameplay](https://www.youtube.com/watch?v=OIFVjriJJrg)
 - [Crossout Mobile Gameplay](https://www.youtube.com/watch?v=htlEkj5H6t4)
 - [Critical Strike Gameplay](https://www.youtube.com/watch?v=qwLu3hSsl9U)
 <!-- YOUTUBE:END -->
