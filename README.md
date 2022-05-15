@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [FOG Battle Royale Gameplay](https://www.youtube.com/watch?v=nb2EIuYIXiY)
-- [Distyle Gameplay](https://www.youtube.com/watch?v=8lXN8xUM1Ew)
-- [Unkilled Gameplay](https://www.youtube.com/watch?v=OIFVjriJJrg)
-- [Crossout Mobile Gameplay](https://www.youtube.com/watch?v=htlEkj5H6t4)
-- [Critical Strike Gameplay](https://www.youtube.com/watch?v=qwLu3hSsl9U)
+- [Seven Mortal Sins X Gameplay](https://www.youtube.com/watch?v=mirYq9FcXxc)
+- [Chromatic Souls Gameplay 2022](https://www.youtube.com/watch?v=Cnyd9LpYOSg)
+- [Bad Girls Wrestling 2022 Gameplay](https://www.youtube.com/watch?v=vsJpEyfcMHM)
+- [Chromatic Souls Gameplay](https://www.youtube.com/watch?v=qHvvKRXPd38)
+- [Top Mech Gameplay](https://www.youtube.com/watch?v=iLQpM9w97ho)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
