@@ -35,7 +35,7 @@
 - [Seven Mortal Sins X Gameplay](https://www.youtube.com/watch?v=mirYq9FcXxc)
 - [Chromatic Souls Gameplay 2022](https://www.youtube.com/watch?v=Cnyd9LpYOSg)
 - [Bad Girls Wrestling 2022 Gameplay](https://www.youtube.com/watch?v=vsJpEyfcMHM)
-- [Chromatic Souls Gameplay](https://www.youtube.com/watch?v=qHvvKRXPd38)
+- [Echoes of Mana Gameplay &lpar;Square Enix&rpar;](https://www.youtube.com/watch?v=qHvvKRXPd38)
 - [Top Mech Gameplay](https://www.youtube.com/watch?v=iLQpM9w97ho)
 <!-- YOUTUBE:END -->
 
