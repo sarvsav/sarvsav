@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Apex Legends Tutorial Gameplay](https://www.youtube.com/watch?v=xImcTruIg-8)
+- [Apex Legends Intro Walkthrough Gameplay](https://www.youtube.com/watch?v=SXzsw2QTO6w)
 - [Infinite Magic Raid Gameplay](https://www.youtube.com/watch?v=W_ZkCseTrG8)
 - [Seven Mortal Sins X Gameplay](https://www.youtube.com/watch?v=mirYq9FcXxc)
 - [Chromatic Souls Gameplay 2022](https://www.youtube.com/watch?v=Cnyd9LpYOSg)
-- [Bad Girls Wrestling 2022 Gameplay](https://www.youtube.com/watch?v=vsJpEyfcMHM)
-- [Echoes of Mana Gameplay &lpar;Square Enix&rpar;](https://www.youtube.com/watch?v=qHvvKRXPd38)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
