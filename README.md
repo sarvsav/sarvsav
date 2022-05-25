@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Apex Legends Tutorial Gameplay](https://www.youtube.com/watch?v=xImcTruIg-8)
-- [Apex Legends Intro Walkthrough Gameplay](https://www.youtube.com/watch?v=SXzsw2QTO6w)
-- [Infinite Magic Raid Gameplay](https://www.youtube.com/watch?v=W_ZkCseTrG8)
-- [Seven Mortal Sins X Gameplay](https://www.youtube.com/watch?v=mirYq9FcXxc)
-- [Chromatic Souls Gameplay 2022](https://www.youtube.com/watch?v=Cnyd9LpYOSg)
+- [Apex Legends Battle Gameplay](https://www.youtube.com/watch?v=YGMUFkWAW3k)
+- [Arat Tutorial Gameplay](https://www.youtube.com/watch?v=djRJY4CuhEk)
+- [Arat Gameplay with Mok in Escort Map](https://www.youtube.com/watch?v=cfI6-rUBXjU)
+- [Arat Gameplay Quick Match Gameplay with Mok Escort map](https://www.youtube.com/watch?v=7TYPWYmtl9s)
+- [Arat Gameplay Escort with Mok by Cyberbit](https://www.youtube.com/watch?v=LGLR0frMaxU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
