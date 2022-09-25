@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quine Computing - A Go code that print itself](http://www.codingtherightway.com/2022/09/quine-computing-go-code-that-print.html)
 - [How to write unit tests using BATS &lpar;Bash Automated Testing System&rpar; for shell scripts and dockerfiles - Part 1](http://www.codingtherightway.com/2022/03/how-to-write-unit-tests-using-bats-bash.html)
 - [PromQL - How to return 0 instead of No data &lpar;replace no data string with 0 in prometheus&rpar; with Bonus](http://www.codingtherightway.com/2022/02/promql-how-to-return-0-instead-of-no.html)
 - [[Solved] Cannot load io/fs: malformed module path &quot;io/fs&quot;: missing dot in first path element](http://www.codingtherightway.com/2022/01/solved-cannot-load-iofs-malformed.html)
 - [[Solution] Getting Error for Private repositories: Go 1.13 or later while doing [go get] verifying: reading: 410 Gone](http://www.codingtherightway.com/2021/12/solution-getting-error-for-private.html)
-- [[Solved] Cannot Sign In to Microsoft teams Error code - signInRestriction:1](http://www.codingtherightway.com/2021/03/solved-cannot-sign-in-to-microsoft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.codingtherightway.com/)
