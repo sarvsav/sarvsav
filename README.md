@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Catalyst Black](https://www.youtube.com/watch?v=3vZjUQ-0pCY)
+- [Ni no Kuni](https://www.youtube.com/watch?v=9R8_CoGzs8U)
+- [Iron Knight Maker](https://www.youtube.com/watch?v=H-hU7reAJfs)
+- [GrandZenka](https://www.youtube.com/watch?v=--be-vCToVo)
 - [Golden Boots Peppa Pig](https://www.youtube.com/watch?v=fsxwSTGgvas)
-- [Apex Legends Battle Gameplay](https://www.youtube.com/watch?v=YGMUFkWAW3k)
-- [Arat Tutorial Gameplay](https://www.youtube.com/watch?v=djRJY4CuhEk)
-- [Arat Gameplay with Mok in Escort Map](https://www.youtube.com/watch?v=cfI6-rUBXjU)
-- [Arat Gameplay Quick Match Gameplay with Mok Escort map](https://www.youtube.com/watch?v=7TYPWYmtl9s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/Cyberbitgame2D)
