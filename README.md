@@ -45,6 +45,9 @@
 ## Medium
 
 [![Sarvsav Medium](https://github-readme-medium.vercel.app/?username=sarvsav&limit=1)](https://medium.com/@sarvsav)
+
+## Support me on medium by becoming a member
+[Become a member](https://medium.com/@sarvsav/membership)
 ---
 
 <p align="center"> 
