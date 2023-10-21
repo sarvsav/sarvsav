@@ -14,19 +14,6 @@
   <img align="left" width="22px" src="https://img.icons8.com/stickers/100/medium-logo.png" />
 </a>
 <br />
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to improve your git commit messages using tools](http://www.codingtherightway.com/2023/03/how-to-improve-your-git-commit-messages.html)
-- [10 Things to do to make your terminal more productive linux](http://www.codingtherightway.com/2023/03/10-things-to-do-to-make-your-terminal.html)
-- [[golang] How to use github for hosting self-updating binaries for your golang projects](http://www.codingtherightway.com/2023/01/golang-how-to-use-github-for-hosting.html)
-- [Quine Computing - A Go code that print itself](http://www.codingtherightway.com/2022/09/quine-computing-go-code-that-print.html)
-- [How to write unit tests using BATS &lpar;Bash Automated Testing System&rpar; for shell scripts and dockerfiles - Part 1](http://www.codingtherightway.com/2022/03/how-to-write-unit-tests-using-bats-bash.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](http://www.codingtherightway.com/)
 
 ---
 ### 📺 Latest YouTube Videos
@@ -68,6 +55,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[website]: http://www.codingtherightway.com/
-
