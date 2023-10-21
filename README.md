@@ -11,7 +11,7 @@
   <img align="left" alt="Sarvsav's LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://medium.com/@sarvsav">
-  <img width="22px" src="https://img.icons8.com/sf-regular/48/medium-logo.png" />
+  <img align="left" width="22px" src="https://img.icons8.com/sf-regular/48/medium-logo.png" />
 </a>
 <br />
 ---
