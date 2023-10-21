@@ -10,8 +10,8 @@
 <a href="https://www.linkedin.com/in/sarvsav/">
   <img align="left" alt="Sarvsav's LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-<a href="https://www.linkedin.com/in/sarvsav/">
-  <img width="22px" style="background-color: orange;" src="https://unpkg.com/simple-icons@v6/icons/firefoxbrowser.svg" />
+<a href="https://medium.com/@sarvsav">
+  <img width="22px" src="https://img.icons8.com/sf-black-filled/64/medium-logo.png" />
 </a>
 <br />
 ---
