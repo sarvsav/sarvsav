@@ -8,7 +8,7 @@
   <img align="left" alt="Username | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sarvsav/">
-  <img align="left" alt="Sarvsav's LinkedIN" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
+  <img align="left" alt="Sarvsav's LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/sarvsav/">
   <img width="22px" style="background-color: orange;" src="https://unpkg.com/simple-icons@v6/icons/firefoxbrowser.svg" />
