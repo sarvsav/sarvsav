@@ -4,11 +4,11 @@
 <a href="https://www.instagram.com/codingtherightway/">
   <img align="left" alt="CodingTheRightWay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/username">
-  <img align="left" alt="Username | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/sarvsav">
+  <img align="left" alt="Sarvsav | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/sarvsav/">
-  <img align="left" alt="Sarvsav's LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />
+  <img align="left" alt="Sarvsav's LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://www.linkedin.com/in/sarvsav/">
   <img width="22px" style="background-color: orange;" src="https://unpkg.com/simple-icons@v6/icons/firefoxbrowser.svg" />
