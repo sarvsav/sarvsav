@@ -15,6 +15,15 @@
 </a>
 <br />
 
+## Books I am reading currently
+
+- Designing Microservices Platforms with NATS by Chanaka Fernando
+
+## Books I read
+
+- Tidy First? by Kent Beck (Finished June, 2024)
+- Build an Orchestrator in Go (From Scratch) by Timothy Boring (Finished June, 2024)
+
 ---
 ### 📺 Latest YouTube Videos
 
@@ -41,13 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sarvsav&show_icons=true&theme=discord_old_blurple" alt="sarvsav" />
 </p>
 
-## Books I am reading currently
-
-- Build an Orchestrator in Go (From Scratch) by Timothy Boring
-
-## Books I read
-
-- Tidy First? by Kent Beck (Finished June, 2024)
 
 <!--
 **sarvsav/sarvsav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
