@@ -129,6 +129,10 @@ If you want to have a 1:1 meeting with me, you can book a slot [here](https://ca
   <a href="https://dev.to/sarvsav" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="sarvsav" /></a>
 </p>
 
+## Badges 🏅
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## Credits 🙌
 
