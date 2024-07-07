@@ -100,12 +100,13 @@ You can find the go code [here](https://go.dev/play/p/3V2PlGgAWLY).
 
 ### I am reading 📖
 
-- Designing Microservices Platforms with NATS by Chanaka Fernando
+- Head First Software Architecture by Raju Gandhi, Neal Ford, and Mark Richards (Started July, 2024)
 
 ### I read 📕
 
 - Tidy First? by Kent Beck (Finished June, 2024)
 - Build an Orchestrator in Go (From Scratch) by Timothy Boring (Finished June, 2024)
+- Designing Microservices Platforms with NATS by Chanaka Fernando (Finished July, 2024)
 
 ## Ask me anything 🤔
 
@@ -116,7 +117,6 @@ Have a question or wanted to discuss about anything? Anything means anything. Pe
 ## Book a 1:1 meeting 🗓️
 
 If you want to have a 1:1 meeting with me, you can book a slot [here](https://calendly.com/sarvsav/30min).
-
 
 ## Connect with me 🤝
 
