@@ -102,6 +102,7 @@ You can find the go code [here](https://go.dev/play/p/3V2PlGgAWLY).
 
 - Head First Software Architecture by Raju Gandhi, Neal Ford, and Mark Richards (Started July, 2024)
 - Software Architecture: The Hard Parts by Mark Richards (Started July, 2024)
+- Documenting Software Architectures: Views and Beyond, Second Edition (Started Feb, 2025)
 
 ### I read 📕
 
