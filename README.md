@@ -134,11 +134,11 @@ If you want to have a 1:1 meeting with me, you can book a slot [here](https://ca
 ## Badges 🏅
 
 <!--START_SECTION:badges-->
-[![Reactive Architecture: Introduction to Reactive Systems - Level 2](https://images.credly.com/size/110x110/images/d39897e7-e1c7-4f4b-9621-4e492a9e2c62/LRA-IntroToReactive-badge.png)](http://www.credly.com/badges/cf12700a-4d5f-4646-a94d-dc2f05055c52 "Reactive Architecture: Introduction to Reactive Systems - Level 2")
-[![LFC131: Green Software for Practitioners](https://images.credly.com/size/110x110/images/f28a92f1-2837-4770-add0-70008be15e89/image.png)](http://www.credly.com/badges/a36b440f-be85-470f-8108-2969d466af92 "LFC131: Green Software for Practitioners")
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/a9d2af9a-d566-42c9-afb7-25dfc7aa0ba8 "AWS Certified Solutions Architect – Associate")
-[![LFC131: Green Software for Practitioners](https://images.credly.com/size/110x110/images/f28a92f1-2837-4770-add0-70008be15e89/image.png)](http://www.credly.com/badges/c2da6b0a-b0ab-4456-9788-751cc8f94e51 "LFC131: Green Software for Practitioners")
-[![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/9b634d55-5b04-4b54-bf99-1265600f235a/image.png)](http://www.credly.com/badges/04bf73f9-0084-4e68-962e-9494091d511d "LFS169: Introduction to GitOps")
+<a href="https://www.credly.com/badges/cf12700a-4d5f-4646-a94d-dc2f05055c52" title="Reactive Architecture: Introduction to Reactive Systems - Level 2"><img src="https://images.credly.com/size/80x80/images/d39897e7-e1c7-4f4b-9621-4e492a9e2c62/LRA-IntroToReactive-badge.png" alt="Reactive Architecture: Introduction to Reactive Systems - Level 2" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/a36b440f-be85-470f-8108-2969d466af92" title="LFC131: Green Software for Practitioners"><img src="https://images.credly.com/size/80x80/images/f28a92f1-2837-4770-add0-70008be15e89/image.png" alt="LFC131: Green Software for Practitioners" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/c2da6b0a-b0ab-4456-9788-751cc8f94e51" title="LFC131: Green Software for Practitioners"><img src="https://images.credly.com/size/80x80/images/f28a92f1-2837-4770-add0-70008be15e89/image.png" alt="LFC131: Green Software for Practitioners" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/04bf73f9-0084-4e68-962e-9494091d511d" title="LFS169: Introduction to GitOps"><img src="https://images.credly.com/size/80x80/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/a9d2af9a-d566-42c9-afb7-25dfc7aa0ba8" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## Credits 🙌
