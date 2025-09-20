@@ -109,6 +109,7 @@ You can find the go code [here](https://go.dev/play/p/3V2PlGgAWLY).
 - Tidy First? by Kent Beck (Finished June, 2024)
 - Build an Orchestrator in Go (From Scratch) by Timothy Boring (Finished June, 2024)
 - Designing Microservices Platforms with NATS by Chanaka Fernando (Finished July, 2024)
+- Looks good to me by Adrienne Braganza (Finished September, 2025)
 
 ## Ask me anything 🤔
 
